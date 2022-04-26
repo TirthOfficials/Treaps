@@ -1,0 +1,8 @@
+IX. References
+[1] G. E. Blelloch and M. Reid-Miller, “Fast set operations using treaps,” in Proceedings of the
+tenth annual ACM symposium on Parallel algorithms and architectures, pp. 16–26, 1998.
+[2] R. Seidel and C. R. Aragon, “Randomized search trees,” Algorithmica, vol. 16, no. 4, pp. 464–
+497, 1996.
+[3] I. Treaps, “High probability bounds for treaps (and quicksort),”
+[4] D. Golovin, “B-treaps: A uniquely represented alternative to b-trees,” in International Colloquium
+on Automata, Languages, and Programming, pp. 487–499, Springer, 2009.
